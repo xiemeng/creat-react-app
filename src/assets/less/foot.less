@@ -1,0 +1,23 @@
+#foot{
+    height: .9rem;box-sizing: border-box;
+    display: flex;text-align: center;z-index: 998;
+    background-color: #fff;width: 100%;border-top: 1px solid #aaaaaa;
+    width: 100%;position: fixed;left: 50%;bottom: 0;max-width: 680px;margin: 0 auto;
+    -webkit-transform: translate(-50%,0);  
+    transform: translate(-50%,0); 
+    line-height:.9rem;
+    a{
+        flex:1;
+    }
+    .active{
+        color: #ffbf17 !important;
+       
+    }
+}
+
+/*单独适配iphoneX*/
+@media only screen and (width:414px) and (height: 730px){
+    #foot{
+        height: 83px;
+    }
+}
