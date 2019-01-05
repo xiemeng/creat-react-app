@@ -1,6 +1,5 @@
 # react-cli
 
-git 分支学习
 react app 模板
 > react-app-model
 
@@ -19,4 +18,4 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
+git 分支发布拉取
