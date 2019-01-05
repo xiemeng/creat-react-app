@@ -18,4 +18,4 @@ npm run build
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-git 分支发布拉取
+git 分支发布拉取 2
